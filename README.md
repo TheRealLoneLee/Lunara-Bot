@@ -14,15 +14,15 @@ At the time of writing Lunara is planned to be deployed solely for assisting in 
 
 *(In order of prioritisation, the following is planned to be added)*
 
-- Commands handler directory with each command having its own file to be called upon only when needed.
+- ~~Commands handler directory with each command having its own file to be called upon only when needed.~~
 
 - Logging in channels, a command to setup logging will be made that allows defining which actions are to be logged in which channels, this will then be saved to a configuration file which the bot will read upon startup in the main bot.lua file.
 
 - Moderation commands such as timeout, ban, kick etc.
 
--Role selection (fairly straight forward)
+- Role selection (fairly straight forward)
 
--Rule verification
+- Rule verification
 
 - Ticket system (fairly straight forward)
 
