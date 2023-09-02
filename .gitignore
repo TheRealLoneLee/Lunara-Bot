@@ -1,0 +1,15 @@
+# Ignore dependencies
+
+/src/deps
+
+# Ignore Configuration files and secret keys.
+
+config.*
+token.*
+
+*.bashrc
+
+# Ignore all logfiles and tempfiles.
+
+*.log
+gateway.json
